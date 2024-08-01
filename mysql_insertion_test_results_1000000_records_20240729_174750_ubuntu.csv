@@ -1,8 +1,0 @@
-Primary Key Type,Insertion Time (s),Table Size (KB),,Insertion time decrease %,Table size decrease %
-UUIDv4,117.9754748,87824,,,
-UUIDv7,106.5446997,54976,,9.689111387,37.40207688
-,,,,,
-Tenant-Request V4,147.9432495,150496,,,
-Request-Tenant V4,146.9216137,149488,,,
-Tenant-Request Mixed,149.8618619,154624,,,
-Request-Tenant Mixed,116.8998022,90096,,21.14271825,40.54482103
