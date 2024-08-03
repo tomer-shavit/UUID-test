@@ -1,0 +1,4 @@
+Table Name,Insertion Time (s),Data Size (KB),Index Size (KB),Total Size (KB),Number of Rows,CPU (%),Memory (%),Disk (%),System,Processor,Python Version
+subscription_user_v4,991.79,419728.00,0.00,419728.00,1000000,0.0,10.7,2.1,Linux,x86_64,3.8.10
+subscription_user_mixed,142.46,258048.00,0.00,258048.00,1000000,0.0,11.4,2.1,Linux,x86_64,3.8.10
+user_subscription_mixed,1146.64,436096.00,0.00,436096.00,1000000,0.1,11.4,2.1,Linux,x86_64,3.8.10
